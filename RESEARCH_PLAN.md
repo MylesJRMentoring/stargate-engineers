@@ -12,9 +12,10 @@
 
 ## Phase 2: Transition/Jump Study (Target: Space Engineers Mods)
 **Objective:** Analyze how \"jump\" or \"teleport\" mods handle the transition between coordinates.
-- [ ] **Task 2.1:** Use REA to analyze common jump-drive mods.
-- [ ] **Task 2.2:** Identify how they mitigate \"stutter\" (e.g., time-dilation, background loading).
-- [ ] **Task 2.3:** Document the \"Event Horizon\" logic (detecting when a player/object is in the transition zone).
+- [x] **Task 2.1:** Use REA to analyze common jump-drive mods.
+- [x] **Task 2.2:** Identify how they mitigate \"stutter\" (e.g., time-dilation, background loading).
+- [x] **Task 2.3:** Document the \"Event Horizon\" logic (detecting when a player/object is in the transition zone).
+- [x] **TASK COMPLETED:** Transition logic analyzed. See `RESEARCH_NOTES_TRANSITION.md`.
 
 ## Phase 3: Networking & Scale Study (Target: Star Citizen/Elite Dangerous Concepts)
 **Objective:** Research how high-fidelity games handle \"system hopping.\"
